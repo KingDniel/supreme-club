@@ -1,0 +1,613 @@
+@media screen and (max-width: 600px) {
+    nav {
+        background-color: black;
+    }
+
+    .navbar {
+        height: 100px;
+    }
+
+    .navbar ul li a {
+        font-size: 39px;
+    }
+
+    .navbar ul li a:hover {
+        font-size: 38px;
+    }
+
+    .navbar ul li a:not(:last-child) {
+        margin-right: 38px;
+    }
+
+    .navbar h1 {
+        display: none;
+    }
+
+    .navbar .button {
+        display: none;
+    }
+
+    #Inicio {
+        height: 2000px;
+        width: 350%;
+        padding: 80px;
+    }
+
+    #Inicio .imagem {
+        height: 850px;
+        padding: 20px;
+    }
+
+    #Inicio .inicio-text {
+        font-size: 65px;
+        margin: 20px;
+    }
+
+    #Inicio a {
+        font-size: 50px;
+        padding: 18px;
+        margin: 20px;
+    }
+
+    #Inicio a:hover {
+        text-decoration: none;
+    }
+    
+    #Inicio p {
+        font-size: 50px;
+        margin: 20px;
+    }
+
+    article {
+        width: 350%;
+        height: 2350px;
+    }
+
+    article h2 {
+        font-size: 68px;
+    }
+
+    article p {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .best-supreme {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks i {
+        display: flex;
+        flex-direction: column;
+        font-size: 150px;
+        height: 175px;
+    }
+
+    .blocks p {
+        font-size: 35px
+    }
+
+    #Supreme {
+        width: 350vw;
+        height: 2000px;
+    }
+
+    #Supreme h2 {
+        font-size: 68px;
+    }
+
+    .meet-us {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .meet-us img {
+        height: 1350px;
+        
+        margin: auto;
+    }
+
+    .meet-us p {
+        display: none;
+    }
+
+    .social-media {
+        margin-top: 0;
+        margin-left: 0;
+        padding: 60px;
+    }
+
+    .social-media i {
+        font-size: 75px;
+    }
+
+    .social-media .instagram {
+        font-size: 30px;
+        text-decoration: underline;
+    }
+
+    .social-media .whatsapp {
+        font-size: 30px;
+        text-decoration: underline;
+    }
+
+    .social-media .localizao {
+        font-size: 32px;
+    }
+
+    .benefits {
+        width: 350vw;
+        height: 2150px;
+    }
+
+    .benefits h2 {
+        font-size: 65px;
+    }
+
+    #Beneficios {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #Beneficios i {
+        font-size: 150px;
+        height: 200px;
+    }
+
+    #Beneficios p {
+        font-size: 35px;
+    }
+
+    .cortes {
+        text-align: center;
+        width: 350%;
+        height: 2450%;
+    }
+
+    .cortes h2 {
+        font-size: 65px;
+    }
+
+    .imagens-cortes img {
+        display: inline-flex;
+        height: 600px;
+    }
+
+    #Barbeiros {
+        width: 350vw;
+        display: flex;
+        flex-direction: column;
+        height: 6350px;
+    }
+
+    #Barbeiros img {
+        height: 800px;
+    }
+
+    .meet-barbers h3 {
+        font-size: 65px;
+    }
+
+    .meet-barbers p {
+        font-size: 50px;
+    }
+
+    .meet-barbers a {
+        font-size: 38px;
+    }
+
+    .meet-barbers a:hover {
+        font-size: 38px;
+    }
+
+    footer {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    nav {
+        background-color: black;
+        width: 350%;
+    }
+
+    .navbar {
+        height: 100px;
+        position: fixed;
+        width: 97.6%;
+    }
+
+    .navbar ul li a {
+        font-size: 38px;
+    }
+
+    .navbar ul li a:not(:last-child) {
+        margin-right: 38px;
+    }
+
+    .navbar h1 {
+        display: none;
+    }
+
+    .navbar .button {
+        display: none;
+    }
+
+    #Inicio {
+        height: 2000px;
+        width: 350%;
+        padding: 80px;
+    }
+
+    #Inicio .imagem {
+        height: 1050px;
+        padding: 20px;
+    }
+
+    #Inicio .inicio-text {
+        font-size: 65px;
+        margin: 20px;
+    }
+
+    #Inicio a {
+        font-size: 50px;
+        padding: 18px;
+        margin: 20px;
+    }
+
+    #Inicio a:hover {
+        text-decoration: none;
+    }
+    
+    #Inicio p {
+        font-size: 50px;
+        margin: 20px;
+    }
+
+    article {
+        width: 350%;
+        height: 2350px;
+    }
+
+    article h2 {
+        font-size: 68px;
+    }
+
+    article p {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .best-supreme {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks i {
+        display: flex;
+        flex-direction: column;
+        font-size: 150px;
+        height: 175px;
+    }
+
+    .blocks p {
+        font-size: 35px
+    }
+
+    #Supreme {
+        width: 350vw;
+        height: 2000px;
+    }
+
+    #Supreme h2 {
+        font-size: 68px;
+    }
+
+    .meet-us {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .meet-us img {
+        height: 1350px;
+        
+        margin: auto;
+    }
+
+    .meet-us p {
+        display: none;
+    }
+
+    .social-media {
+        margin-top: 0;
+        margin-left: 0;
+        padding: 60px;
+    }
+
+    .social-media i {
+        font-size: 75px;
+    }
+
+    .social-media .instagram {
+        font-size: 30px;
+        text-decoration: underline;
+    }
+
+    .social-media .whatsapp {
+        font-size: 30px;
+        text-decoration: underline;
+    }
+
+    .social-media .localizao {
+        font-size: 32px;
+    }
+
+    .benefits {
+        width: 350vw;
+        height: 2150px;
+    }
+
+    .benefits h2 {
+        font-size: 65px;
+    }
+
+    #Beneficios {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #Beneficios i {
+        font-size: 150px;
+        height: 200px;
+    }
+
+    #Beneficios p {
+        font-size: 35px;
+    }
+
+    .cortes {
+        text-align: center;
+        width: 350%;
+        height: 2450%;
+    }
+
+    .cortes h2 {
+        font-size: 65px;
+    }
+
+    .imagens-cortes img {
+        display: inline-flex;
+        height: 600px;
+    }
+
+    #Barbeiros {
+        width: 350vw;
+        display: flex;
+        flex-direction: column;
+        height: 6350px;
+    }
+
+    #Barbeiros img {
+        height: 800px;
+    }
+
+    .meet-barbers h3 {
+        font-size: 65px;
+    }
+
+    .meet-barbers p {
+        font-size: 50px;
+    }
+
+    .meet-barbers a {
+        font-size: 38px;
+    }
+
+    footer {
+        display: none;
+    }   
+}
+
+@media screen and (max-width: 1600px) {
+        nav {
+        background-color: black;
+        width: 350%;
+    }
+
+    .navbar {
+        height: 100px;
+        position: fixed;
+        width: 97.6%;
+    }
+
+    .navbar ul li a {
+        font-size: 38px;
+    }
+
+    .navbar ul li a:not(:last-child) {
+        margin-right: 38px;
+    }
+
+    .navbar h1 {
+        display: none;
+    }
+
+    .navbar .button {
+        display: none;
+    }
+
+    #Inicio {
+        height: 2000px;
+        width: 350%;
+        padding: 80px;
+    }
+
+    #Inicio .imagem {
+        height: 1050px;
+        padding: 20px;
+    }
+
+    #Inicio .inicio-text {
+        font-size: 65px;
+        margin: 20px;
+    }
+
+    #Inicio a {
+        font-size: 50px;
+        padding: 18px;
+        margin: 20px;
+    }
+
+    #Inicio a:hover {
+        text-decoration: none;
+    }
+    
+    #Inicio p {
+        font-size: 50px;
+        margin: 20px;
+    }
+
+    article {
+        width: 350%;
+        height: 2350px;
+    }
+
+    article h2 {
+        font-size: 68px;
+    }
+
+    article p {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .best-supreme {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks i {
+        display: flex;
+        flex-direction: column;
+        font-size: 150px;
+        height: 175px;
+    }
+
+    .blocks p {
+        font-size: 35px
+    }
+
+    #Supreme {
+        width: 350vw;
+        height: 2000px;
+    }
+
+    #Supreme h2 {
+        font-size: 68px;
+    }
+
+    .meet-us {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .meet-us img {
+        height: 1350px;
+        
+        margin: auto;
+    }
+
+    .meet-us p {
+        display: none;
+    }
+
+    .social-media {
+        margin-top: 0;
+        margin-left: 0;
+        padding: 60px;
+    }
+
+    .social-media i {
+        font-size: 75px;
+    }
+
+    .social-media .instagram {
+        font-size: 30px;
+        text-decoration: underline;
+    }
+
+    .social-media .whatsapp {
+        font-size: 30px;
+        text-decoration: underline;
+    }
+
+    .social-media .localizao {
+        font-size: 32px;
+    }
+
+    .benefits {
+        width: 350vw;
+        height: 2150px;
+    }
+
+    .benefits h2 {
+        font-size: 65px;
+    }
+
+    #Beneficios {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #Beneficios i {
+        font-size: 150px;
+        height: 200px;
+    }
+
+    #Beneficios p {
+        font-size: 35px;
+    }
+
+    .cortes {
+        text-align: center;
+        width: 350%;
+        height: 2450%;
+    }
+
+    .cortes h2 {
+        font-size: 65px;
+    }
+
+    .imagens-cortes img {
+        display: inline-flex;
+        height: 600px;
+    }
+
+    #Barbeiros {
+        width: 350vw;
+        display: flex;
+        flex-direction: column;
+        height: 6350px;
+    }
+
+    #Barbeiros img {
+        height: 800px;
+    }
+
+    .meet-barbers h3 {
+        font-size: 65px;
+    }
+
+    .meet-barbers p {
+        font-size: 50px;
+    }
+
+    .meet-barbers a {
+        font-size: 38px;
+    }
+
+    footer {
+        display: none;
+    } 
+}
